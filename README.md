@@ -8,18 +8,13 @@
 
 - Does not work on Windows 7 or 32 bit.
 
-# Credits/Acknowledgements
 
-Default Theme -> https://github.com/T5ive/Android-Mod-Menu/tree/inject-mod-menu
+# Tested - Feedback
+● Does not work.
 
-https://github.com/LGLTeam/Android-Mod-Menu
+1.) Tried on both windows 7 64 bit and windows 10 64 bit and successfully compiled without getting any error. But when apk got installed, the mod won't run and always stopped.
 
-[PMT IvesAwadi](https://platinmods.com/members/ivesawadiyt.629982/) for hook tutorial
 
-[PMT DVA](https://platinmods.com/members/dvatsu.1884750/) for [basic tutorial mod menu template](https://www.youtube.com/watch?v=ieMclBtL6Ig)
+2.) Tried two different games with different hex code and functions; both armv7 with correct offset and hex code.
 
-[PMT Mika Cybertron](https://platinmods.com/members/mika-cybertron.43/) for idea [MEGA Tools Injection to Make Mod Menu](https://platinmods.com/threads/exclusive-mega-tools-injection-to-make-mod-menu-for-native-games-only-available-for-approved-modder-higher-on-platinmods-com.74490/)
-
-[7.Hackers polarmods](https://polarmods.com/members/7-hackers.12698/) for hook [tutorial 1](https://polarmods.com/threads/%F0%9F%8E%83-hooking-part-1-how-to-hook-a-field-with-mod-menu-%F0%9F%8E%83.1536/), [tutorial 2](https://polarmods.com/threads/%F0%9F%8E%83-hooking-part-2-how-to-hook-a-function-with-menu-%F0%9F%8E%83.1539/)
-
-and you :))
+3.) Tried on emulator (android 5.1.1 & android 6.0) and real device (android 4.4), still stopped.
