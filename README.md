@@ -14,7 +14,7 @@
 1.) Tried on both windows 7 64 bit and windows 10 64 bit and successfully compiled without getting any error. But when apk got installed, the mod won't run and always stopped.
 
 
-2.) Tried two different games with different hex code and functions; both armv7 with correct offset and hex code.
+2.) Tried two different games with different hex code, function and option; both armv7 with correct offset and hex code.
 
 
-3.) Tried on emulator (android 5.1.1 & android 6.0) and real device (android 4.4), still stopped.
+3.) Tried on emulator (android 5.1.1 & android 8.0) and real device (android 4.4), still stopped.
